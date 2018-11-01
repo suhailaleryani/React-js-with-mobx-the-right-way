@@ -1,3 +1,9 @@
+## Why using this structure
+
+Using this structure and the way of creating models will help you scale your project and make it easy to maintain.
+
+## How i created this project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
